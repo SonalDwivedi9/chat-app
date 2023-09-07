@@ -54,11 +54,11 @@ function RightChatBox() {
                 </div>
               )
             }
-          }) : <div className='start-user'>
-            <h1> Welcome Ninjas!!!</h1>
-            <h2>Chat App Project Using ReactJs</h2>
-            <h3 className="mt-4">Start Chat... </h3>
-          </div> 
+          }) :<div className='start-user'>
+            <h1>Welcome to Freedom Fighters Chat!!</h1>
+            <h2> Celebrating the Heroes of Our Nation...</h2>
+            <h3 className="mt-4">Share Stories and Pay Tribute Together.... </h3>
+          </div>
           }
         </div>
       </div>
